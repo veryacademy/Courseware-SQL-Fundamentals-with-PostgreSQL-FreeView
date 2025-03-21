@@ -1,0 +1,13 @@
+name: SQL-PostgreSQL
+
+services:
+  postgres:
+    image: postgres:17.4-alpine3.21
+    container_name: inventory_db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: inventory
+    ports:
+     - "5432:5432"

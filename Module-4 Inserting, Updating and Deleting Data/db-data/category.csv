@@ -1,0 +1,12 @@
+id,parent_id,name,slug,is_active,level
+1,,Electronics,electronics,false,1
+2,,Furniture,furniture,false,1
+3,,Clothing,clothing,true,1
+4,,Books,books,true,1
+5,1,Smartphones,smartphones,true,2
+6,1,Laptops,laptops,true,2
+7,2,Sofas,sofas,true,2
+8,2,Chairs,chairs,true,2
+9,3,Men's Clothing,mens-clothing,true,2
+10,3,Women's Clothing,womens-clothing,true,2
+11,,Electronic Bikes,electronics-bikes,false,1

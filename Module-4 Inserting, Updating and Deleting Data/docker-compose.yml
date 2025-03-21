@@ -1,0 +1,24 @@
+name: SQL-PostgreSQL
+
+services:
+  postgres:
+    image: postgres:17.4-alpine3.21
+    container_name: inventory_db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: inventory
+    ports:
+      - "5432:5432"
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: a@a.com
+      PGADMIN_DEFAULT_PASSWORD: password
+    ports:
+      - "5050:80"  # Access pgAdmin on port 5050
+    depends_on:
+      - postgres

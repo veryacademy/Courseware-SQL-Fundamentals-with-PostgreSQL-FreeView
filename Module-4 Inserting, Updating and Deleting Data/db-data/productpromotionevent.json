@@ -1,0 +1,27 @@
+[
+    {
+      "product_id": 1,
+      "promotion_event_id": 1
+    },
+    {
+      "product_id": 2,
+      "promotion_event_id": 1
+    },
+    {
+      "product_id": 4,
+      "promotion_event_id": 1
+    },
+    {
+      "product_id": 5,
+      "promotion_event_id": 2
+    },
+    {
+      "product_id": 6,
+      "promotion_event_id": 2
+    },
+    {
+      "product_id": 7,
+      "promotion_event_id": 2
+    }
+  ]
+  

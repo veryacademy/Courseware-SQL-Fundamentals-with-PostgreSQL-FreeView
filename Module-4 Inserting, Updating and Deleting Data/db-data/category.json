@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "parent_id": null,
+        "name": "Electronics",
+        "slug": "electronics",
+        "is_active": false,
+        "level": 1
+    },
+    {
+        "id": 2,
+        "parent_id": null,
+        "name": "Furniture",
+        "slug": "furniture",
+        "is_active": false,
+        "level": 1
+    },
+    {
+        "id": 3,
+        "parent_id": null,
+        "name": "Clothing",
+        "slug": "clothing",
+        "is_active": true,
+        "level": 1
+    },
+    {
+        "id": 4,
+        "parent_id": null,
+        "name": "Books",
+        "slug": "books",
+        "is_active": true,
+        "level": 1
+    },
+    {
+        "id": 5,
+        "parent_id": 1,
+        "name": "Smartphones",
+        "slug": "smartphones",
+        "is_active": true,
+        "level": 2
+    },
+    {
+        "id": 6,
+        "parent_id": 1,
+        "name": "Laptops",
+        "slug": "laptops",
+        "is_active": true,
+        "level": 2
+    },
+    {
+        "id": 7,
+        "parent_id": 2,
+        "name": "Sofas",
+        "slug": "sofas",
+        "is_active": true,
+        "level": 2
+    },
+    {
+        "id": 8,
+        "parent_id": 2,
+        "name": "Chairs",
+        "slug": "chairs",
+        "is_active": true,
+        "level": 2
+    },
+    {
+        "id": 9,
+        "parent_id": 3,
+        "name": "Men's Clothing",
+        "slug": "mens-clothing",
+        "is_active": true,
+        "level": 2
+    },
+    {
+        "id": 10,
+        "parent_id": 3,
+        "name": "Women's Clothing",
+        "slug": "womens-clothing",
+        "is_active": true,
+        "level": 2
+    },
+    {
+        "id": 11,
+        "parent_id": null,
+        "name": "Electronic Bikes",
+        "slug": "electronics-bikes",
+        "is_active": false,
+        "level": 1
+    }
+]

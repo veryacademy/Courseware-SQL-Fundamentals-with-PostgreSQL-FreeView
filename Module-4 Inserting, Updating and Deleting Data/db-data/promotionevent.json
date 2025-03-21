@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Winter Sale",
+      "start_date": "2025-02-01",
+      "end_date": "2025-02-28",
+      "price_reduction": 10
+    },
+    {
+      "id": 2,
+      "name": "Spring Clearance",
+      "start_date": "2025-03-01",
+      "end_date": "2025-03-31",
+      "price_reduction": 20
+    }
+  ]

@@ -1,0 +1,13 @@
+id,category_id,name,slug,description,is_digital,is_active,created_at,updated_at,price
+1,1,iPhone 13,iphone-13,Latest iPhone with amazing features,false,true,2025-02-14T00:00:01,2025-02-14T00:00:00,999.99
+2,1,MacBook Pro 16-inch,macbook-pro-16-inch,High-performance laptop with powerful specs,false,true,2025-02-14T00:00:02,2025-02-14T00:00:00,2899.99
+3,1,Samsung Galaxy S21,samsung-galaxy-s21,Samsung's flagship phone with cutting-edge technology,false,true,2025-02-14T00:00:03,2025-02-14T00:00:00,799.99
+4,2,Leather Sofa,leather-sofa,Comfortable leather sofa for your living room,false,true,2025-02-14T00:00:04,2025-02-14T00:00:00,1299.99
+5,2,Wooden Dining Table,wooden-dining-table,Stylish wooden dining table for a modern home,false,true,2025-02-14T00:00:05,2025-02-14T00:00:00,499.99
+6,3,Men's T-Shirt,mens-t-shirt,Comfortable cotton t-shirt for everyday wear,false,true,2025-02-14T00:00:06,2025-02-14T00:00:00,19.99
+7,3,Women's Blouse,womens-blouse,Stylish blouse for casual or formal wear,false,true,2025-02-14T00:00:07,2025-02-14T00:00:00,29.99
+8,3,Men's Jacket,mens-jacket,Warm and stylish jacket for colder weather,false,true,2025-02-14T00:00:08,2025-02-14T00:00:00,99.99
+9,4,Mystery Novel,mystery-novel,A thrilling mystery novel that will keep you guessing,false,true,2025-02-14T00:00:09,2025-02-14T00:00:00,14.99
+10,4,Science Fiction Book,science-fiction-book,A captivating science fiction novel that explores the future,false,true,2025-02-14T00:00:10,2025-02-14T00:00:00,19.99
+11,4,Science Fiction Book-2,science-fiction-book-2,A captivating science fiction novel that explores the future,false,true,2025-02-14T00:00:10,2025-02-14T00:00:00,19.99
+12,,Science Fiction Book-3,science-fiction-book-3,A captivating science fiction novel that explores the future,false,true,2025-02-14T00:00:10,2025-02-14T00:00:00,19.99

@@ -1,0 +1,6 @@
+id,username,email,password
+1,johndoe,johndoe@example.com,$2b$12$DqfnZP0m9zFtDPfVt5yO5M9ruGZGFVQ9kqOVy8sBysWQMb2ji0GSO
+2,janedoe,janedoe@example.com,$2b$12$DqfnZP0m9zFtDPfVt5yO5M9ruGZGFVQ9kqOVy8sBysWQMb2ji0GSO
+3,marksmith,marksmith@example.com,$2b$12$QbJ3T8vbhwv0tUdF.M5f9sOPwj.T7VAdo8z43lbTKhrm1Y4Hz65kU
+4,emilyjohnson,emilyjohnson@example.com,$2b$12$QwTQyYF1c1Hq93Gio2PslwYm8dWpdFNXQmU2zzE19xv9XcBEl73gG
+5,davidbrown,davidbrown@example.com,$2b$12$T5UPIcHo94HZgr5jlbFcL9qUoSzVktgMBeuxlfxtIC6Uu52Z4QmXi
